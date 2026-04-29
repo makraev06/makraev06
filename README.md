@@ -1,38 +1,75 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=gradient&text=Makraev&fontColor=ffffff&fontSize=55&desc=Backend%20Developer%20%7C%20Building%20clean%20and%20useful%20systems&descSize=16&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=gradient&text=Makraev&fontColor=ffffff&fontSize=55&desc=AI%20Engineer%20%7C%20Frontend%20Developer&descSize=16&descAlignY=65"/>
 
-### Turning logic into reliable applications
+### Orang gabut yang lagi belajar tentang hidup
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-```js
-const makraev = {
-  role: "Backend Developer",
-  location: "Indonesia",
-  focus: ["REST API", "Database", "Server-side Logic"],
-  currentlyLearning: ["JavaScript", "Node.js", "Express"],
-  goal: "Build clean, scalable, and useful applications"
-};
+```python
+class Makraev:
+    def __init__(self):
+        self.role = ["AI Engineer", "Frontend Developer"]
+        self.location = "Indonesia 🇮🇩"
+
+        self.focus = [
+            "Machine Learning & AI Systems",
+            "API & Backend Architecture",
+            "Modern Frontend Development"
+        ]
+
+        self.currently_learning = [
+            "Advanced AI/ML",
+            "Next.js & Performance Optimization",
+            "Cloud & Scalable Systems"
+        ]
+
+        self.mindset = "Build things that are not only functional, but meaningful"
 ```
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,php,js,nodejs,express,html,css,tailwind,bootstrap,mysql&theme=dark" />
+### AI & Data
+
+<img src="https://skillicons.dev/icons?i=python,gcp,mysql&theme=dark" />
+<br/>
+<sub>Machine Learning • Data Processing • Cloud Integration</sub>
+
+---
+
+### Backend & Systems
+
+<img src="https://skillicons.dev/icons?i=java,php&theme=dark" />
+<br/>
+<sub>API Development • System Design • Database Architecture</sub>
+
+---
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=js,html,css,nextjs,tailwind&theme=dark" />
+<br/>
+<sub>Responsive UI • Performance • Clean UX</sub>
+
+---
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -49,11 +86,21 @@ const makraev = {
 
 ---
 
-## ✨ Quote
+## Fokus
 
 <div align="center">
 
-> “Code is not just syntax — it is a way to solve problems.”
+Belajar dan Hidup
+
+</div>
+
+---
+
+## Kata Penyemangat
+
+<div align="center">
+
+ “Bismillah, Semoga Ada Jalan”
 
 </div>
 
